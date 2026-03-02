@@ -18,7 +18,7 @@
 
   <dcat:Catalog rdf:about="http://www.idee.es/csw-codsi-idee/srv/spa/catalog.search#/home">
     <dct:title xml:lang="es">Catálogo de CNIG-IGN</dct:title>
-    <dct:description xml:lang="es">Conjunto de Datasets del CNIG</dct:description>
+    <dct:description xml:lang="es">Conjunto de Datasets del CNIG.</dct:description>
     <dct:publisher>
       <foaf:Organization rdf:about="http://datos.gob.es/recurso/sector-publico/org/Organismo/E00125901">
         <foaf:name xml:lang="es">Centro Nacional de Información Geográfica (CNIG)</foaf:name>
